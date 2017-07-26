@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "state": "California",
+    "capital": "Sacramento",
+    "large_city": "Los Angeles",
+    "statehood": "Sep. 9, 1850",
+    "population": 39250017,
+    "area": 423968
+  },
+  {
+    "id": 2,
+    "state": "Florida",
+    "capital": "Tallahassee",
+    "large_city": "Jacksonville",
+    "statehood": "Mar. 3, 1845",
+    "population": 20612439,
+    "area": 170312
+  },
+  {
+    "id": 3,
+    "state": "New York",
+    "capital": "Albany",
+    "large_city": "New York City",
+    "statehood": "Jul. 26, 1788",
+    "population": 19745289,
+    "area": 141297
+  },
+  {
+    "id": 4,
+    "state": "Washington",
+    "capital": "Olympia",
+    "large_city": "Seattle",
+    "statehood": "Nov. 11, 1889",
+    "population": 7288000,
+    "area": 184661
+  },
+  {
+    "id": 5,
+    "state": "Illinois",
+    "capital": "Springfield",
+    "large_city": "Chicago",
+    "statehood": "Dec. 3, 1818",
+    "population": 12801539,
+    "area": 149997
+  },
+  {
+    "id": 6,
+    "state": "Texas",
+    "capital": "Austin",
+    "large_city": "Houston Dec",
+    "statehood": "Dec. 29, 1845",
+    "population": 27862596,
+    "area": 695660
+  },
+  {
+    "id": 7,
+    "state": "Georgia",
+    "capital": "Atlanta",
+    "large_city": "Atlanta",
+    "statehood": "Jan. 2, 1788",
+    "population": 10310371,
+    "area": 153910
+  },
+  {
+    "id": 8,
+    "state": "Pennsylvania",
+    "capital": "Harrisburg",
+    "large_city": "Philadelphia",
+    "statehood": "Dec. 12, 1787",
+    "population": 12784227,
+    "area": 119279
+  },
+  {
+    "id": 9,
+    "state": "North Carolina",
+    "capital": "Raleigh Charlotte",
+    "large_city": "Raleigh Charlotte",
+    "statehood": "Nov. 21, 1789",
+    "population": 10146788,
+    "area": 139391
+  },
+  {
+    "id": 10,
+    "state": "Ohio",
+    "capital": "Columbus",
+    "large_city": "Columbus",
+    "statehood": "Mar. 1, 1803",
+    "population": 11614373,
+    "area": 116099
+  }
+]

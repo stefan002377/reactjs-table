@@ -1,0 +1,26 @@
+.header {
+  margin:20px 0;
+}
+.header .nquest {
+  margin:35px 0 0;
+}
+.table .btn {
+  margin-right:10px;
+}
+.form-table {
+  width:100%;
+  padding-left: 10px;
+}
+.table td {
+  width:10%;
+}
+.table td:first-child {
+  width: 1%;
+}
+.table span {
+  margin-right:15px;
+}
+table .glyphicon {
+  margin:5px 5px 0 0;
+  cursor:pointer;
+}
