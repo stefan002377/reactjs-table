@@ -1,5 +1,11 @@
 # React Table
 
-A Table Web Aplication created with React (Edit/Delele Info)
+React Table App created with React and Bootstrap
 
-You can see a demo version here <a href="http://stefanciobanu.com/reactjs-table/" >React Table</a>
+![](https://github.com/stefan002377/reactjs-table/blob/master/public/reactjstable.png)
+
+## Demo
+[Address Book - Live DEMO](http://www.stefanciobanu.com/reactjs-table)
+
+## Author
+[Stefan Ciobanu](http://www.stefanciobanu.com)
